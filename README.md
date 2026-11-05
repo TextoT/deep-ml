@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 4 problems · 0 labs · 1 math
+**6** solved · 4 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-11-04 | [solution](math/0011-determinants-and-trace) |
+| [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-11-05 | [solution](math/0014-orthogonality-and-projections) |
 
 ---
 
